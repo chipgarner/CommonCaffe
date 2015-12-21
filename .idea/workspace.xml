@@ -4,17 +4,7 @@
     <option name="SCOPE_TYPE" value="3" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c3bf8696-9096-4172-8ceb-435c13e414c1" name="Default" comment="Paths to models, all .caffemodel files should be i this repository only.">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TrainedModels/VGG19/deploy.prototxt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TrainedModels/bvlc_googlenet/deploy.prototxt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TrainedModels/bvlc_googlenet/readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TrainedModels/finetune_flickr_style/deploy.prototxt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TrainedModels/finetune_flickr_style/style_names.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TrainedModels/googlenet_places205/deploy_places205.protxt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TrainedModels/googlenet_places205/readme" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TrainedModels/googlenet_places205/train_val_googlenet_places205.prototxt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/get_layer_data.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images.py" />
+    <list default="true" id="c3bf8696-9096-4172-8ceb-435c13e414c1" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -69,11 +59,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="models.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.44733727">
+            <state vertical-scroll-proportion="0.0">
               <caret line="22" column="17" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.04417178">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -404,7 +404,13 @@
       <option name="project" value="LOCAL" />
       <updated>1450677749595</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Paths to models, *.caffemodel files are too big and should be in one place">
+      <created>1450681631092</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1450681631092</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -444,7 +450,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Paths to models, all .caffemodel files should be i this repository only." />
-    <option name="LAST_COMMIT_MESSAGE" value="Paths to models, all .caffemodel files should be i this repository only." />
+    <MESSAGE value="Paths to models, *.caffemodel files are too big and should be in one place" />
+    <option name="LAST_COMMIT_MESSAGE" value="Paths to models, *.caffemodel files are too big and should be in one place" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -764,18 +771,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.02208589">
-          <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="22" column="17" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/models.py">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.44733727">
-          <caret line="22" column="17" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+        <state vertical-scroll-proportion="0.04417178">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
           <folding />
         </state>
       </provider>
