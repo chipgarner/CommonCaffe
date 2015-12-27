@@ -9,6 +9,7 @@ class SetupCaffe:
                                channel_swap=(2, 1, 0))  # the reference model has channels in BGR order instead of RGB
 
         self.net.blobs['data'].reshape(1, 3, height, width)
+        self.gpu_on()
 
     def get_network(self):
         return self.net
