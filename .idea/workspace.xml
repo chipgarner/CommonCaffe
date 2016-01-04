@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c3bf8696-9096-4172-8ceb-435c13e414c1" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test_images.py" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/CommonCaffe.iml" afterPath="$PROJECT_DIR$/.idea/CommonCaffe.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/display.py" afterPath="$PROJECT_DIR$/display.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images.py" afterPath="$PROJECT_DIR$/images.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/setup_caffe_network.py" afterPath="$PROJECT_DIR$/setup_caffe_network.py" />
     </list>
@@ -33,7 +36,7 @@
         <entry file="file://$PROJECT_DIR$/display.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+              <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -43,22 +46,45 @@
         <entry file="file://$PROJECT_DIR$/images.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+              <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
               <folding>
-                <element signature="e#0#16#0" expanded="true" />
+                <element signature="e#0#18#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test_images.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/test_images.py">
+      <file leaf-file-name="test_images_2.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test_images_2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.12880144">
-              <caret line="19" column="41" selection-start-line="19" selection-start-column="41" selection-end-line="19" selection-end-column="41" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
               <folding>
                 <element signature="e#0#29#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="readme.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/readme.md">
+          <provider editor-type-id="MarkdownPreviewEditor">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="47" selection-start-line="0" selection-start-column="47" selection-end-line="0" selection-end-column="47" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="get_layer_data.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/get_layer_data.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -77,7 +103,7 @@
         <entry file="file://$PROJECT_DIR$/models.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="22" column="17" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+              <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -102,12 +128,15 @@
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/images.py" />
         <option value="$PROJECT_DIR$/test_images.py" />
+        <option value="$PROJECT_DIR$/test_images_2.py" />
+        <option value="$PROJECT_DIR$/display.py" />
+        <option value="$PROJECT_DIR$/readme.md" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="545" />
-    <option name="y" value="49" />
+    <option name="x" value="510" />
+    <option name="y" value="104" />
     <option name="width" value="1340" />
     <option name="height" value="1001" />
   </component>
@@ -150,7 +179,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="&lt; Python 2.7.6 (/usr/bin/python2.7) &gt;" />
+              <option name="myItemId" value="&lt; Python 3.4.3 virtualenv at ~/cv3py3 &gt;" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -170,10 +199,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Python tests.Pytest TestImages">
+  <component name="RunManager" selected="Python tests.py.test in TestImages and test_resize_image">
     <configuration default="false" name="display" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -212,13 +241,38 @@
       <option name="USE_PARAM" value="false" />
       <method />
     </configuration>
+    <configuration default="false" name="py.test in TestImages and test_resize_image" type="tests" factoryName="py.test" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="CommonCaffe" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="$PROJECT_DIR$/test_images_2.py" />
+      <option name="keywords" value="TestImages and test_resize_image" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="true" />
+      <method />
+    </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="PYTHONPATH" value="/home/jkg/opencv-3.0.0/build/lib:" />
       </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="/usr/bin/python3.4" />
       <option name="WORKING_DIRECTORY" value="" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
@@ -337,8 +391,10 @@
     <configuration default="false" name="Pytest TestImages" type="tests" factoryName="py.test">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="/usr/bin/python2.7" />
+      <envs>
+        <env name="PYTHONPATH" value="/home/jkg/opencv-3.0.0/build/lib:" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python3.4" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
@@ -358,15 +414,17 @@
       <option name="USE_KEYWORD" value="false" />
       <method />
     </configuration>
-    <list size="3">
+    <list size="4">
       <item index="0" class="java.lang.String" itemvalue="Python tests.Pytest TestImages" />
       <item index="1" class="java.lang.String" itemvalue="Python.display" />
       <item index="2" class="java.lang.String" itemvalue="Python tests.Nosetest TestImages.test_resize_image" />
+      <item index="3" class="java.lang.String" itemvalue="Python tests.py.test in TestImages and test_resize_image" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Python tests.Nosetest TestImages.test_resize_image" />
-        <item index="1" class="java.lang.String" itemvalue="Python.display" />
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Python tests.py.test in TestImages and test_resize_image" />
+        <item index="1" class="java.lang.String" itemvalue="Python tests.Nosetest TestImages.test_resize_image" />
+        <item index="2" class="java.lang.String" itemvalue="Python.display" />
       </list>
     </recent_temporary>
   </component>
@@ -397,39 +455,39 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Pytest_TestImages - 2015.12.22 at 10h 40m 09s.xml">
+    <history-entry file="Pytest_TestImages - 2015.12.27 at 17h 43m 27s.xml">
       <configuration name="Pytest TestImages" configurationId="tests" />
     </history-entry>
-    <history-entry file="Pytest_TestImages - 2015.12.22 at 10h 45m 31s.xml">
+    <history-entry file="Pytest_TestImages - 2015.12.27 at 19h 05m 00s.xml">
       <configuration name="Pytest TestImages" configurationId="tests" />
     </history-entry>
-    <history-entry file="Pytest_TestImages - 2015.12.22 at 10h 48m 21s.xml">
+    <history-entry file="Pytest_TestImages - 2015.12.27 at 19h 12m 15s.xml">
       <configuration name="Pytest TestImages" configurationId="tests" />
     </history-entry>
-    <history-entry file="Pytest_TestImages - 2015.12.22 at 10h 50m 28s.xml">
+    <history-entry file="Pytest_TestImages - 2015.12.27 at 19h 13m 38s.xml">
       <configuration name="Pytest TestImages" configurationId="tests" />
     </history-entry>
-    <history-entry file="Pytest_TestImages - 2015.12.22 at 10h 50m 38s.xml">
+    <history-entry file="Pytest_TestImages - 2016.01.04 at 19h 46m 56s.xml">
       <configuration name="Pytest TestImages" configurationId="tests" />
     </history-entry>
-    <history-entry file="Pytest_TestImages - 2015.12.22 at 10h 52m 17s.xml">
-      <configuration name="Pytest TestImages" configurationId="tests" />
+    <history-entry file="py_test_in_TestImages_and_test_resize_image - 2015.12.27 at 19h 17m 24s.xml">
+      <configuration name="py.test in TestImages and test_resize_image" configurationId="tests" />
     </history-entry>
-    <history-entry file="Pytest_TestImages - 2015.12.22 at 10h 53m 42s.xml">
-      <configuration name="Pytest TestImages" configurationId="tests" />
+    <history-entry file="py_test_in_TestImages_and_test_resize_image - 2015.12.27 at 19h 18m 34s.xml">
+      <configuration name="py.test in TestImages and test_resize_image" configurationId="tests" />
     </history-entry>
-    <history-entry file="Pytest_TestImages - 2015.12.22 at 11h 29m 13s.xml">
-      <configuration name="Pytest TestImages" configurationId="tests" />
+    <history-entry file="py_test_in_TestImages_and_test_resize_image - 2015.12.27 at 19h 19m 10s.xml">
+      <configuration name="py.test in TestImages and test_resize_image" configurationId="tests" />
     </history-entry>
-    <history-entry file="Pytest_TestImages - 2015.12.27 at 16h 02m 26s.xml">
-      <configuration name="Pytest TestImages" configurationId="tests" />
+    <history-entry file="py_test_in_TestImages_and_test_resize_image - 2015.12.27 at 19h 19m 37s.xml">
+      <configuration name="py.test in TestImages and test_resize_image" configurationId="tests" />
     </history-entry>
-    <history-entry file="Pytest_TestImages - 2015.12.27 at 16h 10m 29s.xml">
-      <configuration name="Pytest TestImages" configurationId="tests" />
+    <history-entry file="py_test_in_TestImages_and_test_resize_image - 2016.01.04 at 19h 47m 25s.xml">
+      <configuration name="py.test in TestImages and test_resize_image" configurationId="tests" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="545" y="49" width="1340" height="1001" extended-state="0" />
+    <frame x="510" y="104" width="1340" height="1001" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -444,12 +502,12 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39933628" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -473,30 +531,12 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/display.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/images.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#16#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_images.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="52" column="0" selection-start-line="51" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#29#0" expanded="true" />
+            <element signature="e#0#18#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -530,7 +570,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
           <folding>
-            <element signature="e#0#16#0" expanded="true" />
+            <element signature="e#0#18#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -571,7 +611,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
           <folding>
-            <element signature="e#0#16#0" expanded="true" />
+            <element signature="e#0#18#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -605,7 +645,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
           <folding>
-            <element signature="e#0#16#0" expanded="true" />
+            <element signature="e#0#18#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -639,7 +679,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#16#0" expanded="true" />
+            <element signature="e#0#18#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -673,7 +713,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#16#0" expanded="true" />
+            <element signature="e#0#18#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -845,10 +885,43 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.042704627">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/display.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/get_layer_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -861,38 +934,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.042704627">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/models.py">
+    <entry file="file://$PROJECT_DIR$/test_images_2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="22" column="17" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#16#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_images.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.12880144">
-          <caret line="19" column="41" selection-start-line="19" selection-start-column="41" selection-end-line="19" selection-end-column="41" />
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding>
             <element signature="e#0#29#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readme.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="47" selection-start-line="0" selection-start-column="47" selection-end-line="0" selection-end-column="47" />
+          <folding />
         </state>
       </provider>
     </entry>

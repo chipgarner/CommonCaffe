@@ -4,7 +4,7 @@ import cv2
 
 
 class TestImages(TestCase):
-    def test_resize_image_tall(self):
+    def test_resize_image(self):
         im = images.Images()
         img = cv2.imread('../CamDreams/Paintings/wondering.jpg')
 
@@ -16,9 +16,6 @@ class TestImages(TestCase):
 
         assert h == height
         assert w == width
-
-        # cv2.imshow('Test Image', image)
-        # cv2.waitKey(0)
 
     def test_resize_image_wide(self):
         im = images.Images()
@@ -48,8 +45,3 @@ class TestImages(TestCase):
 
         assert h == height
         assert w == width
-
-        # cv2.imshow('Test Image', image)
-        # cv2.waitKey(0)
-
-

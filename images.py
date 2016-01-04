@@ -1,4 +1,3 @@
-import PIL.Image
 import numpy as np
 import cv2
 
@@ -6,7 +5,7 @@ import cv2
 class Images:
     # reshape and load image
     def load_image(self, net, image_relative_path):
-        img = np.float32(PIL.Image.open(image_relative_path))
+        img = cv2.imread(image_relative_path)
         source = net.blobs['data']
         h, w, c = img.shape[:]
         source.reshape(1, 3, h, w)
